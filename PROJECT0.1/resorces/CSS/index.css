@@ -1,0 +1,71 @@
+
+#godina{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.naslov{
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border: 1px solid black;
+}
+.naslov{
+    text-align: center;
+    color: goldenrod;
+    font-size: 32px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+}
+#instagram{
+    width: 60px;
+    height: 60px
+}
+#facebook{
+    width: 30px;
+    height: 30px
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+.clanovi{
+    margin-top: 0;
+}
+#mreza{
+    margin-bottom: 0;
+}
+.premium{
+    color: goldenrod;
+    text-align: center;
+    border: 3px goldenrod solid;
+    width: 200px;
+    height: 55px;
+    padding: 50px;
+    margin: 0 auto;
+    
+}
+.standard{
+    color: silver;
+    text-align:center;
+    border: 3px grey solid;
+    width: 200px;
+    height: 55px;
+    padding: 50px;
+    margin: 0 auto;
+}
+#premium{
+    margin-top: 10px;
+}
